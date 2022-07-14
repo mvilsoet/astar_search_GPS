@@ -16,7 +16,7 @@ Open terminal in main directory of project, type:
   ``./roadmap``  //will output RoadTrip.png as a test case
   
   
-  To add your own path, navigate to line 13 of main.cpp and input the coordinates of the start and endpoint in MapQuest(StartLat, StartLong, EndLat, EndLong). When roadmap.exe is executed at this time, the output MyMap.png will contain the  shortest path between the nearest nodes to the input in our dataset.
+  To add your own path, navigate to line 13 of main.cpp and input the coordinates of the start and endpoint in MapQuest(StartLat, StartLong, EndLat, EndLong). When roadmap.exe is executed at this time, the output MyMap.png will contain the shortest path between the nearest nodes to the input in our dataset.
   
   
 ## (3) Steps to run the testing suite
